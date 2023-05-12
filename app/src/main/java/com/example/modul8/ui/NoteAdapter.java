@@ -43,7 +43,7 @@ public class NoteAdapter extends RecyclerView.Adapter<NoteAdapter.NoteViewHolder
     public int getItemCount() {
         return listNotes.size();
     }
-    
+
     static class NoteViewHolder extends RecyclerView.ViewHolder {
         final ItemNoteBinding binding;
         NoteViewHolder(ItemNoteBinding binding) {

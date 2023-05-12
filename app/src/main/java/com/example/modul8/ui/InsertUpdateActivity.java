@@ -94,7 +94,7 @@ public class InsertUpdateActivity extends AppCompatActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         if (isEdit) {
-            getMenuInflater().inflate(R.menu.menu_form, menu);
+            getMenuInflater().inflate(R.menu.menu_file, menu);
         }
         return super.onCreateOptionsMenu(menu);
     }
