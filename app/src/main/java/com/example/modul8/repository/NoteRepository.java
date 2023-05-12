@@ -1,4 +1,4 @@
-package com.example.modul8.Repository;
+package com.example.modul8.repository;
 
 import android.app.Application;
 

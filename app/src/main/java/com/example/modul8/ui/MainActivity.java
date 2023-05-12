@@ -1,4 +1,4 @@
-package com.example.modul8;
+package com.example.modul8.ui;
 
 public class MainActivity {
 }
