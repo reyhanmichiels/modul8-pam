@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">modul8</string>
+    <string name="title">Judul</string>
     <string name="description">Deskripsi</string>
     <string name="submit">Submit</string>
     <string name="delete">Hapus</string>
